@@ -5,7 +5,7 @@ import (
 )
 
 // TODO: Cleaning consts into group variables ()
-// Sets Default values which dynamicly changes as Struct property
+// Sets Default values which dynamicly changes as Struct properties
 const Capacity_Def int = 12
 const Length_Def int = 12
 
